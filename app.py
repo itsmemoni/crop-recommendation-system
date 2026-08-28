@@ -132,7 +132,7 @@ if st.button("🌾 Recommend Crop",
         st.info(f"💰 Market Price:\n₹{price}/kg")
         st.success(f"💵 Expected Profit:\n₹{profit:,}")
 
-    st.balloons()
+    st.sparkle()
 
 # ---- FOOTER ----
 st.markdown("<hr>", unsafe_allow_html=True)
