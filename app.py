@@ -56,7 +56,8 @@ TEXT = {
         "title": "Smart Crop Recommendation system",
         "subtitle": "Soil-first guidance for what to grow, when, and how it pays off",
         "college": "Pavai Arts and Science College for Women",
-        "team": "BSc AI & DS · Team M.S. Monica & A. Monisha",
+        "claas": "BSc AI & DS"
+        "Team": "M.S. Monica & A. Monisha" 
         "weather_header": "Fetch Live Weather",
         "weather_caption": "Enter your city to auto-fill temperature, humidity and rainfall",
         "city_label": "City",
