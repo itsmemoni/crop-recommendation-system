@@ -16,7 +16,7 @@ le = pickle.load(open('label_encoder.pkl', 'rb'))
 # ============================================================
 # Get a free API key at https://openweathermap.org/api
 # Paste it below between the quotes.
-WEATHER_API_KEY = "PASTE_YOUR_OPENWEATHERMAP_API_KEY_HERE"
+WEATHER_API_KEY = "01aa1eccb6b748ad636894b83fbd352c"
 
 def fetch_weather(city):
     """Fetch live temperature, humidity and a rainfall estimate for a city."""
