@@ -56,7 +56,7 @@ TEXT = {
         "title": "Smart Crop Recommendation system",
         "subtitle": "Soil-first guidance for what to grow, when, and how it pays off",
         "college": "Pavai Arts and Science College for Women",
-        "Team": "BSc AI & DS . M.S. Monica & A. Monisha",
+        "team": "BSc AI & DS · Team M.S. Monica & A. Monisha",
         "weather_header": "Fetch Live Weather",
         "weather_caption": "Enter your city to auto-fill temperature, humidity and rainfall",
         "city_label": "City",
@@ -78,7 +78,7 @@ TEXT = {
         "yield_label": "Expected Yield",
         "price_label": "Market Price",
         "profit_label": "Expected Profit",
-        "footer": "Grow Smarter. Farm Better. Harvest Better.",
+        "footer": "Grow Smarter. Farm Better. Harvest Better 🌾🤖.",
         "kg_hectare": "kg/hectare"
     },
     "ta": {
@@ -107,7 +107,7 @@ TEXT = {
         "yield_label": "எதிர்பார்க்கும் விளைச்சல்",
         "price_label": "சந்தை விலை",
         "profit_label": "எதிர்பார்க்கும் லாபம்",
-        "footer": "வழிகாட்டி: திருமதி. அனிதகுமாரி · BSc செயற்கை நுண்ணறிவு மற்றும் தரவு அறிவியல் · 5வது செமஸ்டர் திட்டம்",
+        "footer": "நுட்பமாக வளர்ப்போம். சிறப்பாக விவசாயம் செய்வோம். சிறந்த அறுவடையைப் பெறுவோம் 🌾🤖.",
         "kg_hectare": "கிலோ/ஹெக்டேர்"
     }
 }
