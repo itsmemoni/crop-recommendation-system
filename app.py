@@ -53,7 +53,7 @@ def fetch_weather(city):
 # ============================================================
 TEXT = {
     "en": {
-        "title": "Smart Crop Recommendation",
+        "title": "Smart Crop Recommendation system",
         "subtitle": "Soil-first guidance for what to grow, when, and how it pays off",
         "college": "Pavai Arts and Science College for Women",
         "team": "BSc AI & DS · Team M.S. Monica & A. Monisha",
@@ -78,7 +78,7 @@ TEXT = {
         "yield_label": "Expected Yield",
         "price_label": "Market Price",
         "profit_label": "Expected Profit",
-        "footer": "Guide: Ms. Anithakumari · BSc Artificial Intelligence & Data Science · 5th Semester Project",
+        "footer": "Grow Smarter. Farm Better. Harvest Better.",
         "kg_hectare": "kg/hectare"
     },
     "ta": {
@@ -427,7 +427,7 @@ st.markdown("""
 
     .footer-note {
         text-align: center;
-        font-size: 0.78rem;
+        font-size: 0.80rem;
         color: #9a8b78;
         padding-top: 1rem;
         border-top: 1px solid rgba(74,124,89,0.15);
